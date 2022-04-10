@@ -28,5 +28,10 @@ full_image: /img/software-developer-6521720__480.webp
 pricing:
   heading: Free Offer
   description: i'm not given free  Offers :)
-  plans: []
+  plans:
+    - plan: tesr
+      price: "100"
+      description: Test Plan
+      items:
+        - testitems
 ---
