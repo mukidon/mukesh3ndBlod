@@ -21,7 +21,9 @@ main:
   image3:
     alt: imge
     image: /img/internet-information-technology-businessman-hand-showing-concept-75784736.jpg
-testimonials: []
+testimonials:
+  - quote: Test
+    author: TEST
 full_image: /img/software-developer-6521720__480.webp
 pricing:
   heading: Free Offer
